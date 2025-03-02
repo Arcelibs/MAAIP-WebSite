@@ -3,8 +3,6 @@ title: MAAIP OFFICAL WEBSITE
 toc: false
 ---
 
-這是MAAIP的官方說明與教學文件站
-
 ## 導航
 
 {{< cards >}}
@@ -25,8 +23,8 @@ toc: false
 
 本倉庫為MAAIP-自動化助手的程式代碼，運用了知名測試化框架MaaFramework
 
-> **MaaFramework** 是基於圖像識別技術、運用 [MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 開發經驗去蕪存菁、完全重寫的新一代自動化黑盒測試框架。
-> 低程式碼的同時仍擁有高擴展性，旨在打造一款豐富、領先、且實用的開源庫，助力開發者輕鬆編寫出更好的黑盒測試程序，並推廣普及。
+**MaaFramework** 是基於圖像識別技術、運用 [MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 開發經驗去蕪存菁、完全重寫的新一代自動化黑盒測試框架
+低程式碼的同時仍擁有高擴展性，旨在打造一款豐富、領先、且實用的開源庫，助力開發者輕鬆編寫出更好的黑盒測試程序，並推廣普及
 
 ## 即刻开始
 
