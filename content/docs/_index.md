@@ -1,18 +1,9 @@
 ---
-title: Documentation
+title: 遊戲需求功能開發
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+能偷懶的地方其實不多，主要是作者本身遊戲玩的多真的很懶XD
 
-## Hello, World!
+日版官網: https://idolypride.jp/
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
