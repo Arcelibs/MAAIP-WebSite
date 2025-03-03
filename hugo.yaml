@@ -63,6 +63,9 @@ params:
 
 defaultContentLanguage: zh-TW
 languages:
+  zh-TW:
+    languageName: 繁體中文
+    weight: 1
   en:
     languageName: English
-    weight: 1
+    weight: 2
