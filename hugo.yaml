@@ -69,3 +69,6 @@ languages:
   en:
     languageName: English
     weight: 2
+  jp:
+    languageName: 日本語
+    weight: 3
