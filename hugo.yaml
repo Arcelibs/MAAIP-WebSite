@@ -60,3 +60,9 @@ params:
       repoId: R_kgDOOBuM8w
       category: Announcements
       categoryId: DIC_kwDOOBuM884Cneah
+
+defaultContentLanguage: zh-TW
+languages:
+  en:
+    languageName: English
+    weight: 1
