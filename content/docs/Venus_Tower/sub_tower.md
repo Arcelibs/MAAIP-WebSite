@@ -1,7 +1,6 @@
 ---
 title: 陣營塔
 type: docs
-prev: docs/Venus_Tower/
 ---
 
 ## 開發邏輯
