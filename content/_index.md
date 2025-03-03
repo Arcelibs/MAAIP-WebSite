@@ -26,7 +26,7 @@ toc: false
 **MaaFramework** 是基於圖像識別技術、運用 [MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 開發經驗去蕪存菁、完全重寫的新一代自動化黑盒測試框架
 低程式碼的同時仍擁有高擴展性，旨在打造一款豐富、領先、且實用的開源庫，助力開發者輕鬆編寫出更好的黑盒測試程序，並推廣普及
 
-## 即刻开始
+## 即刻開始
 
 - [📄 快速開始](https://github.com/MaaXYZ/MaaFramework/blob/main/docs/zh_cn/1.1-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.md)
 - [🎞️ 影片教學](https://www.bilibili.com/video/BV1yr421E7MW)

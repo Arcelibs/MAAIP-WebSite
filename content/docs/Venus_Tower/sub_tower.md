@@ -1,0 +1,9 @@
+---
+title: 陣營塔
+type: docs
+prev: docs/Venus_Tower/
+---
+
+## 開發邏輯
+
+跟主塔邏輯差不多，但說真的石頭太少了很懶得寫邏輯爬它

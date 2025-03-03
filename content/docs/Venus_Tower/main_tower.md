@@ -1,7 +1,8 @@
 ---
-title: main_tower
+title: 主塔
 type: docs
 prev: docs/Venus_Tower/
+next: docs/Venus_Tower/sub_tower
 ---
 
 ## 開發邏輯
